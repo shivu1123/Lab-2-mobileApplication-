@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculator_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Lab-2-mobileApplication-
+>>>>>>> a44e09e9b156e591f5af331c8d9eea554e3c2e0c
